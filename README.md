@@ -53,7 +53,7 @@ The detector supports **overlapping sequence detection**, allowing continuous se
 
 ## Design Methodology
 
-```text
+
 Specification
       ↓
 FSM State Definition
@@ -170,7 +170,6 @@ The waveform verifies:
 
 ## Project Structure
 
-```text
 verilog-1011-sequence-detector/
 │
 ├── src/
